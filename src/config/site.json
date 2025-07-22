@@ -1,13 +1,8 @@
 [
   {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "url": "https://blog.ilue.pp.ua",
     "icon": "fa fa-blog"
-  },
-  {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
-    "icon": "fa fa-cloud "
   },
   {
     "name": "图床",
@@ -16,17 +11,22 @@
   },
   {
     "name": "封面",
-    "url": "https://cover.ruom.top",
+    "url": "https://cove.ilue.pp.ua/",
     "icon": "fa fa-panorama"
   },
   {
     "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "url": "https://uptime.ilue.pp.ua/status/monitor/",
     "icon": "fa fa-chart-line"
   },
   {
-    "name": "图标",
-    "url": "https://icon.ruom.top/",
-    "icon": "fa fa-icons"
+    "name": "事实新闻",
+    "url": "https://news.ljxx.dpdns.org/",
+    "icon": "fas fa-newspaper"
+  },
+  {
+    "name": "今日热榜",
+    "url": "https://hot.ilue.pp.ua/",
+    "icon": "fab fa-hotjar"
   }
 ]
