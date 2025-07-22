@@ -22,11 +22,11 @@
   {
     "name": "事实新闻",
     "url": "https://news.ljxx.dpdns.org/",
-    "icon": "fas fa-newspaper"
+    "icon": "fa fa-newspaper-o"
   },
   {
     "name": "今日热榜",
     "url": "https://hot.ilue.pp.ua/",
-    "icon": "fab fa-hotjar"
+    "icon": "fa fa-fire"
   }
 ]
