@@ -1,12 +1,12 @@
 [
   {
     "name": "博客",
-    "url": "https://blog.ilue.pp.ua",
+    "url": "https://blog.ilue.pp.ua/",
     "icon": "fa fa-blog"
   },
   {
     "name": "图床",
-    "url": "https://dev.ruom.top",
+    "url": "https://img.ljxx.dpdns.org/",
     "icon": "fa fa-image"
   },
   {
@@ -22,7 +22,7 @@
   {
     "name": "事实新闻",
     "url": "https://news.ljxx.dpdns.org/",
-    "icon": "fa fa-newspaper-o"
+    "icon": "far fa-newspaper"
   },
   {
     "name": "今日热榜",
